@@ -112,7 +112,23 @@ Ideal para estudiantes o desarrolladores que desean aprender sobre:
 
 ## 📸 Vista previa (opcional)
 
-> Puedes incluir aquí capturas de pantalla o un pequeño video mostrando la app en funcionamiento.
+### 🖼️ Vista previa del sistema
+
+<p align="center">
+  <img src="Inicio de Sesion.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Registro de Usuario.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Tableros.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Listas.png" width="600">
+</p>
 
 ---
 
