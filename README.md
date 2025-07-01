@@ -31,7 +31,7 @@ Facilita la colaboración mediante **tableros**, **listas** y **tarjetas**, con 
 1. **Clona o descarga** este repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/gestor-tareas-colaborativo.git
+https://github.com/arturohidalgo21/Gestor-de-Tareas-Colaborativo.git
 cd gestor-tareas-colaborativo
 ```
 
